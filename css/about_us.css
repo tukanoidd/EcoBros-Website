@@ -1,0 +1,75 @@
+nav button:nth-child(1), h1, p {
+    color: #6CC551;
+}
+
+h1 {
+    width: 615px;
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 48px;
+    color: white;
+    top: 50%;
+    z-index: 2;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    margin-top: -25px;
+}
+
+.mission, .mission_description, .team, .people, .person {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mission, .team, .person {
+    flex-direction: column;
+}
+
+.mission, .person {
+    background-color: #484848;
+}
+
+.mission {
+    margin-top: 80px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+.mission_description {
+    width: 80%;
+}
+
+.mission_description img {
+    width: 225px;
+    margin-right: 40px;
+}
+
+.mission_description p {
+    font-size: 20px;
+}
+
+.team {
+    margin-top: 40px;
+}
+
+.person {
+    width: 20vw;
+}
+
+.person:not(:last-child) {
+    margin-right: 10px;
+}
+
+.person img {
+    width: 18vw;
+    height: 25vh;
+}
+
+.person p {
+    font-size: 15px;
+}

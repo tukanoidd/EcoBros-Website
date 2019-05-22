@@ -1,0 +1,71 @@
+nav button:nth-child(2), h1, h3, form *:last-child {
+    color: #6CC551
+}
+
+h1 {
+    font-size: 72px;
+    width: 650px;
+}
+
+h2 {
+    font-size: 48px;
+    color: white;
+    top: 50%;
+    z-index: 2;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    margin-top: -25px;
+}
+
+h3 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.social, .socials_logos, .mail, form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social, .mail {
+    margin-top: 30px;
+}
+
+.social, .mail, form {
+    flex-direction: column;
+}
+
+.socials_logos {
+    width: 70vw;
+}
+
+.socials_logos img:not(:last-child) {
+    margin-right: 30px;
+}
+
+.socials_logos img {
+    width: 150px;
+    height: 150px;
+}
+
+form {
+    width: 70vw;
+}
+
+form *:not(:last-child) {
+    margin-top: 25px;
+    width: 70vw;
+}
+
+form *:not(:nth-child(3)):not(:last-child) {
+    height: 40px;
+}
+
+form *:last-child {
+    margin-top: 10px;
+    margin-right: -65vw;
+    border: #707070 solid 1px;
+    background-color: #447604;
+}
