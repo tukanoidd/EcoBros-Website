@@ -1,0 +1,23 @@
+nav {
+    position: fixed;
+    top: 2vh;
+    right: 2vw;
+    z-index: 2000;
+}
+
+nav button {
+    font-size: 4.5vh;
+    transition: all 0.5s;
+    color: #52AD9C;
+    background-color: transparent;
+    border: none;
+}
+
+nav button:not(:last-child) {
+    border-right: #52AD9C 1px solid;
+    padding-right: 2vw;
+}
+
+nav button:hover {
+    color: #6CC551;
+}
