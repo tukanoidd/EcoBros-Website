@@ -10,7 +10,7 @@ $(document).ready(() => {
 function setBindings() {
     $(".back_home_btn").click((e) => {
         $([document.documentElement, document.body]).animate({
-            scrollTop: $("nav").offset().top
+            scrollTop: $(".start").offset().top
         }, 1000);
     });
 }
