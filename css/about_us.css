@@ -58,8 +58,10 @@ h3 {
 }
 
 .person {
+    margin-top: 20px;
     width: 20vw;
     height: 70vh;
+    justify-content: start;
 }
 
 .person:not(:last-child) {
