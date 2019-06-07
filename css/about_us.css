@@ -59,6 +59,7 @@ h3 {
 
 .person {
     width: 20vw;
+    height: 70vh;
 }
 
 .person:not(:last-child) {
