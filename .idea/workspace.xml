@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="474d3213-4257-45c2-b87a-ef0f752fad69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/about_us.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about_us.css" afterDir="false" />
-    </list>
+    <list default="true" id="474d3213-4257-45c2-b87a-ef0f752fad69" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -140,10 +138,10 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -228,18 +226,17 @@
       <workItem from="1558552558552" duration="2121000" />
       <workItem from="1559251082737" duration="377000" />
       <workItem from="1559733274772" duration="669000" />
-      <workItem from="1559946762555" duration="1324000" />
+      <workItem from="1559946762555" duration="1925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35795000" />
+    <option name="totallyTimeSpent" value="36396000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09932886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20527045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
