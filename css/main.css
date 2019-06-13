@@ -1,6 +1,9 @@
+h1, .model a {
+    color: white;
+}
+
 h1 {
     font-size: 48px;
-    color: white;
     top: 50%;
     z-index: 2;
     height: 50px;
@@ -22,6 +25,10 @@ svg {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.model a {
+    margin-top: 20px;
 }
 
 .model-description {
